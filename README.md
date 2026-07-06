@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aranya%20Chatterjee&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%26%20Generative%20AI%20Systems&descAlignY=52&descSize=18" width="100%"/>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi!..+I+Am+Aranya+Chatterjee;Building+Multimodal+RAG+Systems;Computer+Vision+%2B+Deep+Learning;LLM+Fine-Tuning+%26+GEPA+Optimization;Turning+Research+into+Real+Products" alt="Typing SVG" />
